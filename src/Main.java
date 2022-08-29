@@ -104,11 +104,11 @@ public class Main {
             return;
         }
         System.out.println("Name : " + existingContactRecord.getName() + " phone number is " + existingContactRecord.getPhoneNumber());
-        if (mobilePhone.removeContact(existingContactRecord)) {
-            System.out.println("Successfully deleted");
-        } else {
-            System.out.println("Error deleting contact");
-        }
+//        if (mobilePhone.removeContact(existingContactRecord)) {
+//            System.out.println("Successfully deleted");
+//        } else {
+//            System.out.println("Error deleting contact");
+//        }
 
     }
 
