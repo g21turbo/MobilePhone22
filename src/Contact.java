@@ -1,5 +1,7 @@
 import java.util.SplittableRandom;
 
+//Mobile phone project 8-28-22, Udemy
+
 public class Contact {
 
     private String name;

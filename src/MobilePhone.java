@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
+//Mobile phone project 8-28-22, Udemy
+
 public class MobilePhone {
 
     private String myNumber;
